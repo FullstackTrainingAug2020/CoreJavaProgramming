@@ -10,6 +10,7 @@ public class StringReverse {
 		isPalindromeString(name, outputStr);	*/
 		
 		isPalindromeString(name, reverse(name));
+		// isPalindromeString(name, reverse);
 	}
 	
 	private static String reverse(String name) {
