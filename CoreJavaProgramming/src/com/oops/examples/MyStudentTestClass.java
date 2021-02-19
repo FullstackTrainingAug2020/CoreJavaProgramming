@@ -17,6 +17,8 @@ public class MyStudentTestClass {
 		System.out.println("STUDENT NAME: "+sujashStu.name);
 		System.out.println("STUDENT NAME: "+vamshiStu.name);
 		
+		System.out.println("STUDENT STRING: "+Student.str);
+		
 
 	}
 
