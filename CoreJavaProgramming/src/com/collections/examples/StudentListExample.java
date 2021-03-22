@@ -10,6 +10,9 @@ public class StudentListExample {
 		Student st1 = new Student();
 		st1.setRollNo(1);
 		st1.setStudentName("Snehith");
+		st1.setMathsMarks(90);
+		st1.setScienceMarks(84);
+		st1.setSocialMarks(78);
 		
 		Student st2 = new Student();
 		st2.setRollNo(2);
